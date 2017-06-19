@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">WBSchools</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sign_up_login">No Account? <b><u>Sign Up</u></b></string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="progress_dialog">Loading...</string>
+    <string name="please_wait">Please wait</string>
+
+    <string name="error_try_again_support">Error. Try again or contact support</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_items">Items</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_clients">Clients</string>
+    <string name="title_activity_estimates">Estimates</string>
+    <string name="title_activity_invoices">Invoices</string>
+
+    <string name="title_activity_new_item">New Item</string>
+    <string name="title_activity_new_client">New Client</string>
+    <string name="title_activity_new_estimate">New Estimate</string>
+    <string name="title_activity_new_invoice">New Invoice</string>
+    <string name="title_activity_item_picker">Select Item</string>
+
+    <string name="name">Name</string>
+    <string name="rate">Rate</string>
+    <string name="quantity">Quantity</string>
+    <string name="description">Description</string>
+
+    <string name="email_invoice">Email Invoice</string>
+    <string name="download_pdf">Download PDF</string>
+
+    <string name="save">SAVE</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete_item">Delete Item?</string>
+    <string name="save_successful">Save Successful</string>
+
+    <string name="email">Email</string>
+    <string name="address1">Address 1</string>
+    <string name="address2">Address 2</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="postcode_zip">Postcode / Zip</string>
+    <string name="country">Country</string>
+
+    <string name="invoice_number">Invoice #</string>
+    <string name="estimate_number">Estimate #</string>
+    <string name="tax_rate">Tax Rate (%)</string>
+    <string name="client_notes">Client Notes</string>
+    <string name="notes">Notes</string>
+    <string name="client">Client</string>
+    <string name="items">Items</string>
+    <string name="invoice_date">Invoice Date</string>
+    <string name="invoice_due_date">Due Date</string>
+    <string name="estimate_date">Estimate Date</string>
+    <string name="estimate_due_date">Expiry Date</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="balance_due">Balance Due</string>
+    <string name="tax">Tax</string>
+    <string name="invoice_number_required">Invoice number required</string>
+    <string name="estimate_number_required">Estimate number required</string>
+    <string name="client_required">Client Required</string>
+
+    <string name="or">OR</string>
+    <string name="paid">Paid</string>
+    <string name="payment_received">Payment Received?</string>
+    <string name="items_required">Items required. Please add items.</string>
+    <string name="convert_to_invoice">Convert to Invoice</string>
+    <string name="invoiced">Invoiced</string>
+    <string name="email_estimate">Email Estimate</string>
+    <string name="currency_format_example">Currency Format Example:</string>
+    <string name="item">Item</string>
+    <string name="amount">Amount</string>
+    <string name="invoice_capitalized">INVOICE</string>
+    <string name="invoice">Invoice</string>
+    <string name="estimate_capitalized">ESTIMATE</string>
+    <string name="estimate">Estimate</string>
+    <string name="page_no">Page No.</string>
+    <string name="payment_made">Payment Made</string>
+    <string name="invoice_email_subject">Invoice %1$s from %2$s %3$s</string>
+    <string name="invoice_email_text">Dear %1$s,\n\n  Thank you for your business. \n\n  Please find attached your invoice %2$s.\n\n Kind Regards \n\n %3$s %4$s</string>
+    <string name="estimate_email_subject">Estimate %1$s from %2$s %3$s</string>
+    <string name="estimate_email_text">Dear %1$s,\n\n  Thank you for contacting us. \n\n  Please find attached your estimate %2$s.\n\n Kind Regards \n\n %3$s %4$s</string>
+
+    <string name="pdf_not_created">PDF could not be created</string>
+    <string name="unpaid">Unpaid</string>
+
+    <string name="currency">Currency</string>
+    <string name="address">Address</string>
+    <string name="logout">Logout</string>
+
+    <string name="title_activity_setting">Settings</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_setting_logo">Settings Logo</string>
+    <string name="logo_info_text">Upload a logo of size 180px x 80px</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> <!-- Replace with YOUR Admob banner id -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string><!-- Replace with YOUR Admob interstitial id -->
+
+</resources>
