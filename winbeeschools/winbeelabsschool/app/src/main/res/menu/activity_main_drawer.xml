@@ -9,19 +9,19 @@
         <item
             android:id="@+id/nav_invoices"
             android:icon="@drawable/ic_menu_invoices"
-            android:title="Invoices" />
+            android:title="Attendance" />
         <item
             android:id="@+id/nav_estimates"
             android:icon="@drawable/ic_menu_estimates"
-            android:title="Estimates" />
+            android:title="Diary" />
         <item
             android:id="@+id/nav_items"
             android:icon="@drawable/ic_menu_items"
-            android:title="Items" />
+            android:title="Fees and Payment" />
         <item
             android:id="@+id/nav_clients"
             android:icon="@drawable/ic_menu_clients"
-            android:title="Clients" />
+            android:title="Messages" />
     </group>
 
     <group android:id="@+id/group_settings"  android:checkableBehavior="single">
